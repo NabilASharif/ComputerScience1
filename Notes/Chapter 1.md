@@ -266,19 +266,11 @@ IDE - Text editor, compiler, debugger, and other utilities integrated into a pac
 
 Programming flow:
 
-Design
+- Design
+- Create
+- Debug
+- Test
 
-Create
-
-Debug
-
-Test
-
-Expanding on 1 - Purpose, input, process, output
-
-Expanding on 2 - Ask what it'll look like and what it'll display.
-
-Expanding on 3 - Use design tools like pseudo-code.
 
 Pseudocode - Across between human language and programming language.
 
@@ -296,15 +288,6 @@ Store the value of hours times rate in the pay variable
 
 Display "The value in the pay variable"
 
-Expanding on 4 - Check on logic errors. Logic errors are mistakes that cause the program to produce erroneous errors.
-
-Expanding on 5 - Enter code, save source code to source file, and begin compilation.
-
-Expanding on 6 - Correct any errors found in a compilation. Repeat steps 5 and 6 as many times as necessary till the program is free of compile-time errors.
-
-Expanding on 7 - Run the program with test data for input - A runtime error is an error that occurs while the program is running. These are usually logical errors, like mathematical mistakes.
-
-Expand on 8 and 9 - (Leaving it here for practice).
 
 Checkpoint 1.6-3
 
@@ -314,39 +297,45 @@ interest = (balance \* interestrate)
 
 currentbalance = startingbalance + interest
 
+
+
 Checkpoint 1.6-4
 
 A runtime error occurs while the program is expecting.
+
+
 
 Checkpoint 1.6-5
 
 The purpose of testing a program with sample data on input is to determine runtime errors.
 
-Software engineers
 
--Designing, writing, testing, debugging, documenting, and modifying.
 
-Ex- Program specifications, diagrams of screen output, diagrams representing the components and flow of the program of data, pseudocode, examples of expected input and desired output, and special software designed for testing purposes.
+Definitions
 
-Procedural - A set of programming statements that together perform a specific task.
+- Procedural - A set of programming statements that together perform a specific task.
 
-Object-oriented programming - A programming paradigm in which the programmer creates objects that store data and perform operations.
+- Object-oriented programming - A programming paradigm in which the programmer creates objects that store data and perform operations.
 
-Fields/attributes - A piece of data stored in an object.
+- Fields/attributes - A piece of data stored in an object.
 
-Methods - A collection of statements that perform a task; a procedure or behavior that an object performs.
+- Methods - A collection of statements that perform a task; a procedure or behavior that an object performs.
 
-Encapsulation - Combining code and data into a single object.
+- Encapsulation - Combining code and data into a single object.
 
-Data hiding - An objects ability to hide its data from code outside the single object.
+- Data hiding - An objects ability to hide its data from code outside the single object.
 
-Indirect access data - Code outside the object can access an object's methods can be used to interact with code outside the object. This prevents accidental corruption and code/cada separation issues.
+- Indirect access data - Code outside the object can access an object's methods can be used to interact with code outside the object. This prevents accidental corruption and code/cada separation issues.
+
+
 
 Note: Checkpoint 1.7-1
 
-Procedural - A set of steps in which variables commonly share data items with other sets of steps.
+- Procedural - A set of steps in which variables commonly share data items with other sets of steps.
 
-Software entities or units that contain data and the methods that operate on that data.
+- Software entities or units that contain data and the methods that operate on that data.
+
+
 
 Chapter 1 Review Questions and Exercises.
 
@@ -364,9 +353,13 @@ Chapter 1 Review Questions and Exercises.
 12. B
 13. D
 
+
+
 Predict the result
 
 1. 1+0 → 1 + 5 → 0 + 5 = y → Display 5
+
+
 
 Short Answer
 
@@ -391,7 +384,10 @@ Short Answer
 19. Javac LabAssignment.java
 20. Byte code file, byte code, java LabAssignment
 
+
+
 Algorithm Workbench
+
 
 Problem 1
 
@@ -406,6 +402,8 @@ Input creditused
 Store result of maxcredit - creditused in availcredit
 
 Display "Your available credit is $ " + availcredit
+
+
 
 Problem 2
 
@@ -424,6 +422,8 @@ Store result of retailprice + salestax in totalsale
 Display "The sales tax for the purchase is $ " + salestax
 
 Display "The total of the sale is $ " + totalsale
+
+
 
 Problem 3
 
