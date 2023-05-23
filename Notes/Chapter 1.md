@@ -121,133 +121,73 @@ Common elements of a programming language.
 
 Keywords (reserved words)
 
-abstract
-
-assert
-
-boolean
-
-break
-
-byte
-
-case
-
-catch
-
-char
-
-class
-
-const
-
-continue
-
-default
-
-do
-
-double
-
-else
-
-enum
-
-extends
-
-false
-
-final
-
-finally
-
-float
-
-for
-
-goto
-
-if
-
-implements
-
-import
-
-instanceof
-
-interface
-
-int
-
-long
-
-native
-
-new
-
-null
-
-public
-
-private
-
-protected
-
-package
-
-return
-
-short
-
-static
-
-strictfp
-
-super
-
-switch
-
-synchronized
-
-this
-
-throw
-
-throws
-
-transient
-
-true
-
-try
-
-void
-
-volatile
-
-while
+- abstract
+- assert
+- boolean
+- break
+- byte
+- case
+- catch
+- char
+- class
+- const
+- continue
+- default
+- do
+- double
+- else
+- enum
+- extends
+- false
+- final
+- finally
+- float
+- for
+- goto
+- if
+- implements
+- import
+- instanceof
+- interface
+- int
+- long
+- native
+- new
+- null
+- public
+- private
+- protected
+- package
+- return
+- short
+- static
+- strictfp
+- super
+- switch
+- synchronized
+- this
+- throw
+- throws
+- transient
+- true
+- try
+- void
+- volatile
+- while
 
 New restricted words (Java 9)
 
-exports
+- exports
+- open
+- opens
+- to
+- uses
+- with
+- transitive
+- module
+- requires
+- provides
 
-open
-
-opens
-
-to
-
-uses
-
-with
-
-transitive
-
-module
-
-requires
-
-provides
 
 Treated as keywords only within module descriptor.
 
