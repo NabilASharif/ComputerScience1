@@ -1,4 +1,8 @@
-﻿1.1 Introduction 
+﻿Nabil Sharif
+Introduction to Computer Science
+Chapter 1 Notes
+
+1.1 Introduction 
 
 
 * Java is a powerful language that runs on practically every computer.
