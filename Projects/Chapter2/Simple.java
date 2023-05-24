@@ -1,8 +1,9 @@
 /*
 Nabil Sharif
 Introduction to Computer Science
-Chapter 1 - Hello World.java
-Description: This program displays the statement "Hello World!".
+Chapter 2 - Simple.java
+Description: This program displays the statement 
+"Programming is great fun!".
 */
 
 public class Simple
