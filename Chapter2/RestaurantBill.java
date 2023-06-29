@@ -30,6 +30,6 @@ public class RestaurantBill
 		System.out.println("Meal tax: $" + mealTax);
 		System.out.println("Meal tip: " + mealTip);
 		System.out.println("Meal total: " + mealTotal);
-	
+
 	}
 }
