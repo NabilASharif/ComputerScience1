@@ -30,4 +30,5 @@ public class CookieCalorieCounter
 		TOTAL_CALORIES_CONSUMED + " calories.");
 	}
 	
+	public int classic = 40;
 }
