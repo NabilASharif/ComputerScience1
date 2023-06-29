@@ -3,14 +3,16 @@ import java.util.Scanner;
 /*
 * Nabil Sharif
 * Introduction to Computer Science
-* Chapter 2 - RestaurantBill.java
+* Chapter 2 - MaleAndFemalePercentages.java
 * Description: 
-* Write a program that computes the tax and tip 
-* on a restaurant bill. The progrtam should ask the 
-* user to enter the charge for the meal. The tax should be 
-* 6.75 percent of the meal charge. The tip should be 20 
-* percent of the total after adding the tax. Display the meal 
-* charge, tax amount, tip amount, and total bill on screen.
+* Write a program that asks the user for the number of 
+* males and the number of females registered in a class. 
+* The program should display the percentage of males and 
+* females in the class.Hint: Suppose there are 8 males and 
+* 12 females in a class. There are 20 students in the class.
+* The percentage of males can be calculated as 
+* 8÷20=0.4, or 40%. The percentage of females can 
+* be calculated as 12÷20=0.6, or 60%.
 */
 
 public class MaleAndFemalePercentages
