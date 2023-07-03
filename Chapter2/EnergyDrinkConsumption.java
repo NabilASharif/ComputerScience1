@@ -23,7 +23,6 @@ public class EnergyDrinkConsumption
 		double totalCustSurveyed = 12467,
 				custSurveyed_OnePlusEnergyDrinksPerWeek,
 				custSurveyed_CitrusEnergyDrinks;
-				;
 		
 		
 		//calculations
