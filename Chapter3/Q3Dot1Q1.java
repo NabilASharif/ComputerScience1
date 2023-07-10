@@ -18,6 +18,7 @@ public class Q3Dot1Q1
 		
 	
 	/**
+	 * 
 	 * Assume the variables bonus and goodsSold have 
 	 * already been declared in the program:
 	 * 
