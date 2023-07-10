@@ -23,7 +23,6 @@ public class SquareArea
 		//Use the square area formula to compute the square area
 		//Compute the product of length x width and store the result in area
 		area = length * width;
-			
 		
 		//Display the square area
 		System.out.println("The square area is " + area);
