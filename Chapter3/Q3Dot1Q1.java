@@ -9,6 +9,7 @@
  * variable bonus. if the value of the variable goodsSold 
  * is greater than 500,000. Assume the variables bonus and
  * goodsSold have already been declared in the program.
+ * 
  */
 
 public class Q3Dot1Q1
