@@ -1,5 +1,5 @@
 /**
- * @author Nabil
+ * Nabil Sharif
  * 
  * Chapter 3 - QRDot1Q1.java
  * 

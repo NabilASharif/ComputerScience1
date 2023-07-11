@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @author Nabil Sharif
+ * Nabil Sharif
  * Chapter 3 - SquareArea.java
  * 
  * Description: 

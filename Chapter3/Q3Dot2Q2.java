@@ -1,6 +1,6 @@
 /**
- * @author Nabil
- * 
+ * Nabil Sharif
+ *   
  * Chapter 3 -  Q3Dot2Q2.java
  * 
  * Description:

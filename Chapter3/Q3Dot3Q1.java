@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @author Nabil
+ * Nabil Sharif
  *
  * Chapter 3 - Q3Dot3Q3.java
  *

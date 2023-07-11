@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * @author Nabil
+ * Nabil Sharif
  *
- * Chapter {#} - NestedDecision.java
+ * Chapter 3 - NestedDecision.java
  *
  * Description:
  *
