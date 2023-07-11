@@ -8,6 +8,7 @@ import java.util.Scanner;
  * 
  * This program demonstrates the if statement
  *
+ *
  */
 public class AverageScore {
 
