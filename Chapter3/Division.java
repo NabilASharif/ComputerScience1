@@ -9,7 +9,6 @@ import java.util.Scanner;
  * 
  * This program demonstrates the if-else statement.
  *
- *
  */
 
 public class Division {

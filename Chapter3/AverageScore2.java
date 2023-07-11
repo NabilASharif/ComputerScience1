@@ -8,6 +8,8 @@ import java.util.Scanner;
  * 
  * This program demonstrates the if statement and flags.
  *
+ *
+ *
  */
 public class AverageScore2 
 {
