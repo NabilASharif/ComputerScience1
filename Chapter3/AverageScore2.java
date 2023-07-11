@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * @author Nabil Sharif
  * Chapter 3 - AverageScore2.java
+ * 
  * Description: 
  * 
  * This program demonstrates the if statement and flags.
