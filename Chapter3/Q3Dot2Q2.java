@@ -11,6 +11,7 @@
  * salesTrend. Otherwise, assign 1 to the variable salesTrend.
  * [Please note that there is no display to output required]
  *
+ *
  */
 
 public class Q3Dot2Q2

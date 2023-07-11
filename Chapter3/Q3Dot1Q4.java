@@ -12,7 +12,6 @@
  * 
  * if the variable temperature is greater than 98.6.
  *
- *
  */
 
 public class Q3Dot1Q4

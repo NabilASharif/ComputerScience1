@@ -16,7 +16,6 @@
  * 
  * already been declared and assigned values.
  *
- *
  */
 
 public class Q3Dot1Q2 

@@ -10,6 +10,7 @@
  * add 1 to the variable seniorCitizens. Otherwise, add 
  * 1 to the variable nonSeniors. [No display to output req]
  *
+ *
  */
 
 public class Q3Dot2Q1

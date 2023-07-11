@@ -10,6 +10,7 @@ import java.util.Scanner;
 * the length is 10 and the width is 5. The program should then 
 * display the message "The area is {givenarea}" without brackets.
 * 
+* 
 */
 
 public class SquareArea
