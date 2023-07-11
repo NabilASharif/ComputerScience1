@@ -41,7 +41,7 @@ public class Q3Dot3Q1
 				+ " of books did the user purchase? ");
 		nbooksPurchased = scan.nextInt();
 		
-		if (isPremiumCustomer == true)
+		if (isPremiumCustomer)
 		{
 			if (nbooksPurchased >=8)
 			{
