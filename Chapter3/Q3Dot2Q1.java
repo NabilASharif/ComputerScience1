@@ -9,6 +9,7 @@
  * If the age variable is greater than or equal to 65, 
  * add 1 to the variable seniorCitizens. Otherwise, add 
  * 1 to the variable nonSeniors. [No display to output req]
+ *
  */
 
 public class Q3Dot2Q1
