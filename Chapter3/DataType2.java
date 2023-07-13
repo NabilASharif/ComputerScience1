@@ -9,11 +9,12 @@ public class DataType2
 {
 	public static void main(String[] args)
 	{
-		int hours=40, dogs=2, cats=4;
+		int hours=40, dogs=2, cats=4, number=200;
 		
 		double sales=12345.67, temp = 78.42819, 
 				temp1=72.5,temp2=83.7, value1=123.45678, 
-				value2=123.45678, value3=123.45678;
+				value2=123.45678, value3=123.45678,
+				number2 = 12345.6789;
 		
 		System.out.printf("I worked %d hours this " + 
 		"week.\n", hours);
@@ -35,6 +36,14 @@ public class DataType2
 		
 		System.out.printf("%.1f %.2f %.3f", value1, 
 				value2, value3);
+		
+		System.out.printf("The number is:%20f", number);
+		System.out.printf("The number is:%1f", number);
+		System.out.printf("The number is:%6d", number2);
+		System.out.printf("The number is:%12.2f\n",
+				number);
+
+
 	}
 
 }
